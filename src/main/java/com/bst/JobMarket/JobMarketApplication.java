@@ -1,4 +1,4 @@
-package com.mst.JobMarket;
+package com.bst.JobMarket;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
